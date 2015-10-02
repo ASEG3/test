@@ -2,5 +2,9 @@
 this is just a test
 salwa- modify
 I'm Miranda
+<<<<<<< Updated upstream
 
 Hello,, This is Tim!
+=======
+I'm Matt
+>>>>>>> Stashed changes
