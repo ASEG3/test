@@ -8,3 +8,4 @@ Hello,, This is Tim!
 =======
 I'm Matt
 >>>>>>> Stashed changes
+I'm Miranda again!
