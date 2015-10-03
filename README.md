@@ -23,6 +23,4 @@ Tim,thank you!
 
 Horace
 
-# app_dev
-this is the formal repo
 
